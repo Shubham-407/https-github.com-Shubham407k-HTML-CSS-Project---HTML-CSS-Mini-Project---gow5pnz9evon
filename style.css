@@ -2,6 +2,8 @@ body{
     background-image:url(https://img.freepik.com/free-photo/book-with-green-board-background_1150-3837.jpg?w=740&t=st=1658311770~exp=1658312370~hmac=cae338232142fe3fd51b84e6646d553a0c416fa3563b101c57c7db375debd1fb);
     background-repeat: no-repeat;
     background-size:100% 100%;
+    display:flex;
+    flex-wrap:wrap;
 }
 #name{
     font-size:70px;
